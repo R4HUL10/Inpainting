@@ -20,7 +20,7 @@ def main():
             # Process the images here
             # You can perform any processing or analysis here
             # For demonstration, we'll just display the images again
-            st.write("Processing the images...")
+            st.write("Processing the images....")
 
             # Convert uploaded images to PIL Image objects
             normal_img = Image.open(normal_image)
